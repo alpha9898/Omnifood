@@ -17,6 +17,8 @@ The project is made using Flex-box and grid layout in addition to soma javascrip
 * call to action section
 * footer
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf33aa46-3559-4428-ac20-3a6f15b10007/deploy-status)](https://app.netlify.com/sites/omnifood-amar/deploys)
+
 🔗Omnifood  [https://omnifood-amar.netlify.app]
 
 <img src="Omnifood/img/first-look.png" title="Optional title">
