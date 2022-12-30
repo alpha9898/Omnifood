@@ -27,5 +27,3 @@ The project is made using Flex-box and grid layout in addition to soma javascrip
 Contributors names and contact info
 
 ex. Amar yasser
-
-
