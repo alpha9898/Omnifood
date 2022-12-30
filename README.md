@@ -17,7 +17,7 @@ The project is made using Flex-box and grid layout in addition to soma javascrip
 * call to action section
 * footer
 
-
+🔗 Mint's Sign up page](https://omnifood-amar.netlify.app
 
 ## Authors
 
