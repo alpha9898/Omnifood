@@ -20,6 +20,7 @@ The project is made using Flex-box and grid layout in addition to soma javascrip
 🔗Omnifood  [https://omnifood-amar.netlify.app]
 
 <img src="img/first-look.png" alt="Alt text" title="Optional title">
+![Alt text](omnifood/img/first-look.png "Optional title")
 
 
 ## Authors
